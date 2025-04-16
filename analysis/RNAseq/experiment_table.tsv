@@ -1,0 +1,7 @@
+sample	bam	group
+WT_F_1	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/WT_F_1/WT_F_1_Aligned.out.bam	Ref
+WT_F_2	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/WT_F_2/WT_F_2_Aligned.out.bam	Ref
+WT_F_3	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/WT_F_3/WT_F_3_Aligned.out.bam	Ref
+KO_F_1	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/KO_F_1/KO_F_1_Aligned.out.bam	Alt
+KO_M_3	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/KO_M_3/KO_M_3_Aligned.out.bam	Alt
+KO_M_4	/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/star/KO_M_4/KO_M_4_Aligned.out.bam	Alt

@@ -1,0 +1,4 @@
+workdir: "/rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24"
+samples: ["WT_F_1", "WT_F_2", "WT_F_3", "KO_F_1", "KO_M_3", "KO_M_4"]
+star_index: "/rhome/naotok/bigdata/STAR/index_mm10_ensembl_v102"
+gtf: /rhome/naotok/bigdata/genome_annotation/Mouse/Mus_musculus.GRCm38.102.gtf

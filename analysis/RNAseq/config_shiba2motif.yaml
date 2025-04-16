@@ -1,0 +1,6 @@
+workdir: /rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/shiba2motif
+shibadir: /rhome/naotok/bigdata/Ptbp1_astrocyte/Jul24/Shiba
+genome_fasta: /rhome/naotok/bigdata/genome_annotation/Mouse/GRCm38.primary_assembly.genome.fa
+exon_length: 50
+intron_length: 200
+motifs: /rhome/naotok/bigdata/YeoLab/motifs.meme

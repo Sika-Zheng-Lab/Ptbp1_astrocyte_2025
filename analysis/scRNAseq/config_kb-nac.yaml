@@ -1,0 +1,5 @@
+workdir: /rhome/naotok/bigdata/Aldh1l1Cre/kb-nac
+technology: 10xv3
+experiment_table: experiment_table.tsv
+dna_fasta: /bigdata/zhenglab/naotok/10x/annotations/cellranger_ref/genome_tomato_cre_creneo.fa
+gtf: /bigdata/zhenglab/naotok/10x/annotations/cellranger_ref/genes_tomato_cre_creneo.gtf

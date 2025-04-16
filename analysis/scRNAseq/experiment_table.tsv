@@ -1,0 +1,3 @@
+sample	R1	R2
+WT	/rhome/naotok/bigdata/Aldh1l1_Cre_WT/Aldh1l1_Cre_WT_CKDL210022121-1a-SI_GA_E1_HGV5WBBXX_S1_L008_R1_001.fastq.gz	/rhome/naotok/bigdata/Aldh1l1_Cre_WT/Aldh1l1_Cre_WT_CKDL210022121-1a-SI_GA_E1_HGV5WBBXX_S1_L008_R2_001.fastq.gz
+KO	/rhome/naotok/bigdata/Aldh1l1_Cre_KO/Aldh1l1_Cre_KO_CKDL210022121-1a-SI_GA_E2_HGV5WBBXX_S2_L008_R1_001.fastq.gz	/rhome/naotok/bigdata/Aldh1l1_Cre_KO/Aldh1l1_Cre_KO_CKDL210022121-1a-SI_GA_E2_HGV5WBBXX_S2_L008_R2_001.fastq.gz
