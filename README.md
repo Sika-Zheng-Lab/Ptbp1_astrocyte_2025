@@ -2,9 +2,9 @@
 
 This repository contains the data analysis code used in the manuscript:
 
-Genetic Ptbp1 depletion does not induce neuronal RNA splicing patterns in mature astrocytes. <br>
-Min Zhang, Naoto Kubota, David Nikom, Ayden Arient, Sika Zheng.<br>
-2025.
+PTBP1 Depletion in Mature Astrocytes Reveals Distinct Splicing Alterations Without Neuronal Features<br>
+Min Zhang<sup>#</sup>, Naoto Kubota<sup>#</sup>, David Nikom<sup>#</sup>, Ayden Arient, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
+bioRxiv 2025.05.30.657115; doi: https://doi.org/10.1101/2025.05.30.657115
 
 ## Dependencies
 
