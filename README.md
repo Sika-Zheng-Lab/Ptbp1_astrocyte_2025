@@ -4,7 +4,7 @@ This repository contains the data analysis code used in the manuscript:
 
 PTBP1 Depletion in Mature Astrocytes Reveals Distinct Splicing Alterations Without Neuronal Features<br>
 Min Zhang<sup>#</sup>, Naoto Kubota<sup>#</sup>, David Nikom<sup>#</sup>, Ayden Arient, Sika Zheng. (<sup>#</sup>Equal contribution)<br>
-bioRxiv 2025.05.30.657115; doi: https://doi.org/10.1101/2025.05.30.657115
+<i>eLife</i> 14:RP107683; doi: https://doi.org/10.7554/eLife.107683.1
 
 ## Dependencies
 
